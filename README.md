@@ -1,7 +1,7 @@
 <code>🎓 Student: KPI / IM-21</code>
 <code>⚪ Community: Young student developers</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Software engineer / Backend / Full-stack</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>🧑‍💻 Languages: JavaScript, C#, C++, C</code>
-<code>📦 Tech stack: node.js, React.js, Unity</code>
+<code>🧑‍💻 Languages: JavaScript, TypeScript, C#, C++, C</code>
+<code>📦 Tech stack: Node.js, React.js</code>
