@@ -5,3 +5,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript, C#, C++, C</code>
 <code>📦 Tech stack: Node.js, React.js</code>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmutre&theme=chartreuse-dark&layout=compact)
