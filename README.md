@@ -1,5 +1,5 @@
 # Hi there, I'm Dmytro! 👋
-![image](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611oscq0hhevd85c4z776u3f4oj6ieouwzup368yer0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl5cmxkbjlkd2gydDdqYzQ0MHlxdzZmM3hqYmZ3ZXU1Z3htZ2l4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 I am a software developer from **Ukraine**. Lover of everything related to programming. Nowadays, I am Node.js Backend Developer (see my stack below). I like to solve **complex and interesting problems**. I am also:
 - a student of Igor Sikorsky Kyiv Polytechnic Institute **(Bachelor of Software Engineering)**
