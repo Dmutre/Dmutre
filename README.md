@@ -3,7 +3,7 @@
 
 I am a software developer from **Ukraine**. Lover of everything related to programming. Nowadays, I am Node.js Backend Developer (see my stack below). I like to solve **complex and interesting problems**. I am also:
 - a student of Igor Sikorsky Kyiv Polytechnic Institute **(Bachelor of Software Engineering)**
-- working in a state enterprise of the **Ministry of Internal Affairs**
+- working in a **Admiral Studios**
 <br></br>
 <div>
   <a href="mailto:dmytro.lesko@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
